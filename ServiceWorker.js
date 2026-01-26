@@ -1,4 +1,4 @@
-const cacheName = "OGT Inc.-WhiteChivo-1.1.0";
+const cacheName = "OGT Inc.-WhiteChivo-1.6.7";
 const contentToCache = [
     "Build/WHITECHIVO WEBGL 1.3.6v.loader.js",
     "Build/WHITECHIVO WEBGL 1.3.6v.framework.js.unityweb",

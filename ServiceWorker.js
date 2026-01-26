@@ -1,9 +1,9 @@
 const cacheName = "OGT Inc.-WhiteChivo-1.1.0";
 const contentToCache = [
-    "Build/WhiteChivo webgl 1.0.1.loader.js",
-    "Build/WhiteChivo webgl 1.0.1.framework.js.unityweb",
-    "Build/WhiteChivo webgl 1.0.1.data.unityweb",
-    "Build/WhiteChivo webgl 1.0.1.wasm.unityweb",
+    "Build/WHITECHIVO WEBGL 1.3.6v.loader.js",
+    "Build/WHITECHIVO WEBGL 1.3.6v.framework.js.unityweb",
+    "Build/WHITECHIVO WEBGL 1.3.6v.data.unityweb",
+    "Build/WHITECHIVO WEBGL 1.3.6v.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
